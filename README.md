@@ -1,4 +1,4 @@
-# Criador-de-arvore-binaria
+# Criador-de-arvore-binaria-de-busca
 cria árvore binaria, tem função de mostrar a árvore e ainda calcula a altura.
 class Arvore_binaria:
     def __init__(self, dado):
